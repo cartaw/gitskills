@@ -1,0 +1,32 @@
+    1  ls
+    2  cd ..
+    3  pwd
+    4  ls
+    5  cd learngit/
+    6  ls
+    7  cd gitskills/
+    8  ls
+    9  cat b.txt
+   10  git checkout dev
+   11  cat b.txt
+   12  vi b.txt 
+   13  git add b.txt
+   14  git commit -m "dev--com"
+   15  git status
+   16  git checkout master
+   17  cat b.txt 
+   18  vi b.txt 
+   19  git add b.txt
+   20  git status
+   21  git commit -m "--master"
+   22  git merge dev
+   23  cat b.txt
+   24  vi
+   25  vi b.txt 
+   26  git add
+   27  git add b.txt
+   28  git commit -m "--merge dev master"
+   29  git status
+   30  clear
+   31  history
+   32  history>1.txt
